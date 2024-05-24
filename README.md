@@ -1,2 +1,8 @@
-<h1>Basic FastAPI and Supabase Integration</h1>
-<h3>To start the project uvicorn main:app --reload</h3>
+# Basic FastAPI and Supabase Integration
+
+## Getting Started
+
+To start the project, run the following command:
+
+```bash
+uvicorn main:app --reload
